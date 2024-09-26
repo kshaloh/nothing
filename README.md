@@ -1,3 +1,2 @@
 # Something
 
-### An empty repository
